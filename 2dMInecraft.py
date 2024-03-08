@@ -67,7 +67,15 @@ kraft = {
 }
 
 
-
+world = {
+    "livada":[],
+    "okean":[],
+    "suma":[],
+    "snjezni_biom":[],
+    "pustinja":[],
+    "savana":[],
+    "kanjon":[]
+}
 
 #definisemo klasu Player
 
